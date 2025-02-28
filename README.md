@@ -15,5 +15,6 @@ There are a couple of things you can customize, using URL query parameters:
 
 ## License
 This project is licensed under the MIT License - see the [`LICENSE.txt`](LICENSE.txt) file for details.
+This does not include the audio file, it is ""Licensed"" under fair use by Aden Mayo.
 
 As with all my projects, contributions are highly appreciated!
